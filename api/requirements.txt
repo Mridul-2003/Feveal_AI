@@ -1,0 +1,10 @@
+flask
+Werkzeug
+torch
+opencv-python
+librosa
+numpy
+opencv-contrib-python
+torchvision
+tqdm
+numba
